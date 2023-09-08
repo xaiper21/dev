@@ -1,0 +1,69 @@
+.fund {
+    background-color: greenyellow;
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+    flex-direction: column;
+}
+.ceroe {
+    background-color: red;
+    height: 70vh;
+    width: 100vw;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+
+}
+.beloe {
+    background-color: white;
+    height: 70vh;
+    width: 70vw;
+    display: flex;
+    
+   
+}
+* {padding: 0;
+margin: 0;}
+.shapka {
+   margin-bottom: 3vh;
+   margin-left: 3vw;
+   
+  
+}
+
+.podval {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    
+}
+.ctat {
+    
+    margin-left: 3vw;
+    margin-bottom: 3vh;
+    
+}
+.bokpan {
+    margin-left: 3vw;
+    margin-bottom: 3vh;
+    display: flex;
+    flex-wrap: wrap-reverse;
+}
+.navig {
+    margin-right: 9vw;
+  
+}
+.pofig {
+    margin-bottom: 3vh;
+    margin-left: 3vw;
+}
+.navic {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: flex-end;
+}
+span label
+placeholder (вставка текста в очко)
+button(кнопка)
