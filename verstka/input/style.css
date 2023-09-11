@@ -1,0 +1,55 @@
+.belyah {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.belkikroyt {
+  height: 100vh;
+  width: 100vw;
+  background-color: bisque;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.name {
+  display: flex;
+  flex-direction: row;
+  
+ 
+}
+.addres {
+  display: flex;
+  flex-direction: row;
+  
+}
+.place {
+  display: flex;
+  flex-direction: row;
+ 
+}
+.bubu {
+  background-color: grey;
+}
+.centrovka {
+  height: 25vh;
+  width: 50vw;
+  /* display: flex;
+  align-items: left;
+  justify-content: center;
+  flex-direction: column; */
+}
+* {
+  padding: 0;
+  margin: 0;
+}
+.ot1 {
+    padding-left: 3;
+}
+.ot2 {
+    margin-left: 3;
+}
+.ot3 {
+    padding-right: 3;
+}
